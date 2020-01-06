@@ -1,0 +1,11 @@
+/home/mauricionascimento/Documentos/Exercicios/bin/Debug/netcoreapp3.1/Exercicios
+/home/mauricionascimento/Documentos/Exercicios/bin/Debug/netcoreapp3.1/Exercicios.deps.json
+/home/mauricionascimento/Documentos/Exercicios/bin/Debug/netcoreapp3.1/Exercicios.runtimeconfig.json
+/home/mauricionascimento/Documentos/Exercicios/bin/Debug/netcoreapp3.1/Exercicios.runtimeconfig.dev.json
+/home/mauricionascimento/Documentos/Exercicios/bin/Debug/netcoreapp3.1/Exercicios.dll
+/home/mauricionascimento/Documentos/Exercicios/bin/Debug/netcoreapp3.1/Exercicios.pdb
+/home/mauricionascimento/Documentos/Exercicios/obj/Debug/netcoreapp3.1/Exercicios.csprojAssemblyReference.cache
+/home/mauricionascimento/Documentos/Exercicios/obj/Debug/netcoreapp3.1/Exercicios.AssemblyInfoInputs.cache
+/home/mauricionascimento/Documentos/Exercicios/obj/Debug/netcoreapp3.1/Exercicios.AssemblyInfo.cs
+/home/mauricionascimento/Documentos/Exercicios/obj/Debug/netcoreapp3.1/Exercicios.dll
+/home/mauricionascimento/Documentos/Exercicios/obj/Debug/netcoreapp3.1/Exercicios.pdb
