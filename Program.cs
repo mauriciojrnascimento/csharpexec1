@@ -6,7 +6,7 @@ namespace Exercicios
     class Program
     {
         public static int[] Numeros = new int[20] {2,1,3,4,6,5,7,8,9,10,12,11,13,15,14,16,17,20,19,18};
-        public static int[] NumerosPares = new int[]{};
+        public static int[] NumerosPares = new int[20];
         static void Main(string[] args)
         {
             //int[] vetor = {2,1,3,4,6,5,7,8,9,10,12,11,13,15,14,16,17,20,19,18};
@@ -15,7 +15,8 @@ namespace Exercicios
             imprimeArray(Numeros);
             OrdenaDecrescente(Numeros);
             imprimeArray(Numeros);
-            SomentePares(Numeros);            
+            SomentePares(Numeros); 
+            SomenteImpares(Numeros);
             
         }
 
@@ -49,13 +50,12 @@ namespace Exercicios
             int index = 0;
             for(int i = 0; i < array.Length; i++){                
                 if(EhPar(array[i])){
-                    NumerosPares[index] = array[i];
+                    NumerosPares[index] = array[i];        
+                    Array.Resize(ref NumerosPares, NumerosPares.Length + 1);
                     Console.WriteLine(NumerosPares[index]);
                     index++;
-                }
+                }                
             }
-            //imprimeArray(NumerosPares);
-            
         }
 
         static bool EhPar(int valor){
@@ -65,7 +65,15 @@ namespace Exercicios
         }
 
         static void SomenteImpares(int[] array){
-            
+            int index = 0;
+            for(int i = 0; i < array.Length; i++){                
+                if(!EhPar(array[i])){
+                    NumerosPares[index] = array[i];        
+                    Array.Resize(ref NumerosPares, NumerosPares.Length + 1);
+                    Console.WriteLine(NumerosPares[index]);
+                    index++;                    
+                }
+            } 
         }
 
         static void imprimeArray(int[] array){
