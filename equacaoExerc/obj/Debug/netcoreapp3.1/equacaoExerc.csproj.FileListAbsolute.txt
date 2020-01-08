@@ -1,0 +1,11 @@
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/bin/Debug/netcoreapp3.1/equacaoExerc
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/bin/Debug/netcoreapp3.1/equacaoExerc.deps.json
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/bin/Debug/netcoreapp3.1/equacaoExerc.runtimeconfig.json
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/bin/Debug/netcoreapp3.1/equacaoExerc.runtimeconfig.dev.json
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/bin/Debug/netcoreapp3.1/equacaoExerc.dll
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/bin/Debug/netcoreapp3.1/equacaoExerc.pdb
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/obj/Debug/netcoreapp3.1/equacaoExerc.csprojAssemblyReference.cache
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/obj/Debug/netcoreapp3.1/equacaoExerc.AssemblyInfoInputs.cache
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/obj/Debug/netcoreapp3.1/equacaoExerc.AssemblyInfo.cs
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/obj/Debug/netcoreapp3.1/equacaoExerc.dll
+/home/mauricionascimento/Documentos/Exercicios/equacaoExerc/obj/Debug/netcoreapp3.1/equacaoExerc.pdb

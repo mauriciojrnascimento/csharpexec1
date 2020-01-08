@@ -1,0 +1,11 @@
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/bin/Debug/netcoreapp3.1/arrayExerc
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/bin/Debug/netcoreapp3.1/arrayExerc.deps.json
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/bin/Debug/netcoreapp3.1/arrayExerc.runtimeconfig.json
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/bin/Debug/netcoreapp3.1/arrayExerc.runtimeconfig.dev.json
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/bin/Debug/netcoreapp3.1/arrayExerc.dll
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/bin/Debug/netcoreapp3.1/arrayExerc.pdb
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/obj/Debug/netcoreapp3.1/arrayExerc.csprojAssemblyReference.cache
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/obj/Debug/netcoreapp3.1/arrayExerc.AssemblyInfoInputs.cache
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/obj/Debug/netcoreapp3.1/arrayExerc.AssemblyInfo.cs
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/obj/Debug/netcoreapp3.1/arrayExerc.dll
+/home/mauricionascimento/Documentos/Exercicios/arrayExerc/obj/Debug/netcoreapp3.1/arrayExerc.pdb
