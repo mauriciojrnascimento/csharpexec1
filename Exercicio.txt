@@ -1,5 +1,0 @@
-criar um vetor de 20 elementos e ordenar em modo descrescente, e crescente, numeros pares, numeros impares, numeros primos, raiz equação de 1 grau, raiz equação de 2 grau.
-
-bubble sort
-
-selection sort
